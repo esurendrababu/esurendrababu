@@ -20,7 +20,12 @@ I am an enthusiastic developer with experience in various programming languages 
   
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esurendrababu&show_icons=true&locale=en&layout=compact" alt="esurendrababu" /></p>
-  <p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=esurendrababu&show_icons=true&locale=en" alt="esurendrababu" /></p>
+  ## GitHub Stats
+
+Public Repositories: **12**  
+Followers: **0**  
+Following: **0**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esurendrababu&show_icons=true&theme=radical)
   
 
 
@@ -36,12 +41,7 @@ I am an enthusiastic developer with experience in various programming languages 
 
 - [netflix-clone](https://github.com/esurendrababu/netflix-clone) - A clone project of Netflix for understanding front-end and back-end integration. **Stars:** 0, **Language:** Not Specified, **Forks:** 0, **Open Issues:** 0
 
-## GitHub Stats
 
-Public Repositories: **12**  
-Followers: **0**  
-Following: **0**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esurendrababu&show_icons=true&theme=radical)
 
 ## Recent Activity
 
