@@ -1,4 +1,5 @@
 ## Hi there! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esurendrababu&label=Profile%20views&color=0e75b6&style=flat" alt="esurendrababu" /> </p>
 
 I'm **surendrababu**, a passionate developer and DevOps Engineer eager to explore and create impactful projects. I thrive on problem-solving and continuous learning in the tech space.
 
