@@ -1,9 +1,16 @@
+<div align="center">
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTE5cGQxZWRzYW83ajUzbTFkdTRqbnhycmFxY3ZqMXF4bXYzamJwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
+</div>
+
+
+
+<img align="left" src="https://komarev.com/ghpvc/?username=esurendrababu&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=esurendrababu&theme=algolia&margin-w=15&margin-h=15&no-frame=true&row=1&column=6" alt="GitHub Profile Trophies" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=esurendrababu&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+ 
 
 # Hi there! 👋 I'm **Surendra Babu**!
 
