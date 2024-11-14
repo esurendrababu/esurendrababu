@@ -128,7 +128,7 @@ Here are some of the projects I’m proud of:
 
 ---
 
-## 🎨 ASCII Art
+## 🎨  Art
 
 ```plaintext
                                      _           _           _           
