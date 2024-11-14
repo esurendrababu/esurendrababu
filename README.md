@@ -86,10 +86,8 @@ I have hands-on experience with programming languages, frameworks, and various D
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=esurendrababu&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esurendrababu&theme=radical" alt="GitHub Streak" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=esurendrababu&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
